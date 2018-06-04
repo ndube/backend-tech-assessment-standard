@@ -1,4 +1,3 @@
-# backend-tech-assessment
 
 Skeleton project for Backend Technical Assessment.
 
